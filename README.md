@@ -1,4 +1,4 @@
-# book-my-game]
+# book-my-game
 
 # Description 
 
